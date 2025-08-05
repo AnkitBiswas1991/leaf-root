@@ -1,0 +1,269 @@
+[
+    {
+      "category": "Indoor Plants",
+      "plants": [
+        {
+          "id": 1,
+          "name": "Snake Plant",
+          "price": 399,
+          "description": "Tolerant to low light and irregular watering.",
+          "images": ["https://m.media-amazon.com/images/I/61LjnhXXWIL.jpg", "https://m.media-amazon.com/images/I/517yfxsGChL.jpg", "https://m.media-amazon.com/images/I/61LFSt0+AfL._SL1024_.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 2,
+          "name": "Peace Lily",
+          "price": 499,
+          "description": "Elegant white flowers, purifies air.",
+          "image": ["https://seed2plant.in/cdn/shop/files/SPR-variegated-peace-lily-domino-7097188-hero-A-422d7faa152d42d3a4030ff8a2a33768.jpg", "https://exoticflora.in/cdn/shop/products/peacelily.jpg", "https://www.palasa.co.in/cdn/shop/articles/Blog_Cover_Image__17.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 3,
+          "name": "ZZ Plant",
+          "price": 349,
+          "description": "Glossy leaves, requires minimal care.",
+          "image": ["https://myjungleclub.com/cdn/shop/files/Plants-265_zz.webp", "https://www.chhajedgarden.com/cdn/shop/files/robust-zz-plant-indoor_1043x1390.jpg", "https://i.etsystatic.com/22629375/r/il/20be79/3015581167/il_1588xN.3015581167_tk2z.jpg"],
+          "inStock": false
+        },
+        {
+          "id": 4,
+          "name": "Spider Plant",
+          "price": 259,
+          "description": "Great for hanging baskets, pet friendly.",
+          "image": ["https://m.media-amazon.com/images/I/61bfaK6hWpL.jpg", "https://www.ugaoo.com/cdn/shop/files/1_ec5c0b2a-34b6-4fd2-b95b-0775fc80d710.jpg", "https://plantshub.in/wp-content/uploads/2023/06/5b59a7f8-e644-477e-99b4-8fd8f0e24ebb-jpg.webp"],
+          "inStock": true
+        },
+        {
+          "id": 5,
+          "name": "Fiddle Leaf Fig",
+          "price": 799,
+          "description": "Statement plant with broad leaves.",
+          "image": ["https://m.media-amazon.com/images/I/61EoMsA-wkL._SL1000_.jpg", "https://www.thetutuguru.com.au/wp-content/uploads/2024/07/Ficus-lyrata-Fiddle-Leaf-Fig-Tree-potted-indoors.jpg", "https://unlimitedgreens.com/cdn/shop/files/image-_17_e819834b-d056-4d16-95bf-55e768eea1ed.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 6,
+          "name": "Parlor Palm",
+          "price": 289,
+          "description": "Compact palm ideal for tabletops.",
+          "image": ["https://nurserylive.com/cdn/shop/products/nurserylive-g-chamaedorea-elegans-parlour-palm-plant_600x600.jpg", "https://m.media-amazon.com/images/I/81hl3po0unL._SL1500_.jpg", "https://cdn.mos.cms.futurecdn.net/qcdYRNJMNAvPyqCpn8P6hS-1132-80.jpg.webp"],
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "category": "Outdoor Plants",
+      "plants": [
+        {
+          "id": 7,
+          "name": "Bougainvillea",
+          "price": 299,
+          "description": "Vibrant flowering climber.",
+          "image": ["https://www.gardeningexpress.co.uk/media/catalog/product/cache/fa4e57de89a0fb1427d2c82c53fb200f/b/o/bourgainvillea-tree-hires_2-7467d4c6.webp", "https://mediaserver.krishnanursery.in/3078-large_default/bougainvillea-pink-flower-plant.jpg", "https://eureka-farms.com/cdn/shop/files/BarbaraKarst7gal.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 8,
+          "name": "Areca Palm",
+          "price": 599,
+          "description": "Tropical look for patios.",
+          "image": ["https://leafy-life.com/wp-content/uploads/2020/12/4CHLUB020.png", "https://d3k81ch9hvuctc.cloudfront.net/company/T8EXmi/images/bba076ce-213d-4023-b9a8-7d1383f7effa.jpeg", "https://www.padmamnursery.com/cdn/shop/files/Areca-Palm-Silver-Planter-1200x1200-fff8ccef-cbf2-4e2c-b3af-8d0d61fc779a-_2.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 9,
+          "name": "Money Plant (Climber)",
+          "price": 199,
+          "description": "Fast-growing outdoor creeper.",
+          "image": ["https://m.media-amazon.com/images/I/71f3V0oitKL._SL1500_.jpg", "https://naturetouch.co.in/wp-content/uploads/2021/10/DSC_0478-scaled.jpg", "https://www.theplantcompany.co.nz/file/getimage/shop/jpg/lg/epipremnum-aureum.webp"],
+          "inStock": false
+        },
+        {
+          "id": 10,
+          "name": "Jasmine",
+          "price": 249,
+          "description": "Fragrant white blossoms.",
+          "image": ["https://thursd.com/storage/media/79859/white-jasmine-flowers-on-green-leaves.jpg", "https://ksartscollection.com/cdn/shop/files/ks-jasmin-mogra-plant-jasminum-plant.jpg", "https://vgrgardens.com/wp-content/uploads/2022/09/star-jasmine-colour-kakatan.png"],
+          "inStock": true
+        },
+        {
+          "id": 11,
+          "name": "Curry Leaf Plant",
+          "price": 179,
+          "description": "Essential herb for Indian cooking.",
+          "image": ["https://images-cdn.ubuy.co.in/66775fa7228f560d99064e37-curry-trees-10-15cm.jpg", "https://spiceizright.com/wp-content/uploads/2021/05/20210707_082219-2.jpg", "https://exoticflora.in/cdn/shop/products/Murraya-koenigii-curry-tree.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 12,
+          "name": "Ashoka Tree",
+          "price": 999,
+          "description": "Fast-growing ornamental tree.",
+          "image": ["https://m.media-amazon.com/images/I/81qeSO2fszL._SX679_.jpg", "https://nurserylive.com/cdn/shop/products/nurserylive-ashoka-tree-pendula-ashok-plant-1_455b9345-b6a4-4968-a88c-e4428d17c128-104219.jpg", "https://rukminim2.flixcart.com/image/832/832/xif0q/plant-sapling/y/n/1/perennial-no-yes-ashok-plant-6-1-pot-srijaplant-original-imagka6ejmwh6vvm.jpeg"],
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "category": "Flowering Plants",
+      "plants": [
+        {
+          "id": 13,
+          "name": "Rose Plant",
+          "price": 199,
+          "description": "Available in multiple colors.",
+          "image": ["https://puspitanursery.com/cdn/shop/products/91eSCsJ_1IL._SL1500.jpg", "https://puspitanursery.com/cdn/shop/products/61MFGftmcsS_1024x1024.jpg", "https://wildroots.in/wp-content/uploads/2020/10/tiger-rose.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 14,
+          "name": "Hibiscus",
+          "price": 249,
+          "description": "Bright tropical flowers.",
+          "image": ["https://www.silverstonegardening.com.au/wp-content/uploads/2023/02/ksjdnbcj.png", "https://m.media-amazon.com/images/I/71LyL+e2VtL._SX679_.jpg", "https://dukaan.b-cdn.net/2000x2000/webp/upload_file_service/1c5c54ef-de1d-4709-a879-2761bdd2d944/38.png"],
+          "inStock": true
+        },
+        {
+          "id": 15,
+          "name": "Marigold",
+          "price": 149,
+          "description": "Ideal for garden borders.",
+          "image": ["https://goldenhillsfarm.in/media/product_images/deep-orange.jpg", "https://organicbazar.net/cdn/shop/products/Untitled-design-2022-06-03T183509.107.jpg", "https://rukminim2.flixcart.com/image/832/832/xif0q/plant-sapling/t/x/m/perennial-yes-yes-marigold-plant-38-1-plastic-bag-roy-plant-rb-original-imagkrsbnjknxehz.jpeg"],
+          "inStock": true
+        },
+        {
+          "id": 16,
+          "name": "Petunia",
+          "price": 179,
+          "description": "Colorful annual flower.",
+          "image": ["https://buchanansplants.com/wp-content/uploads/2021/09/Hurrah-Blue-Veined-Petunia.jpg", "https://plants.moananursery.com/Content/Images/Photos/L196-13.jpg", "https://cdn.britannica.com/89/131089-050-A4773446/flowers-garden-petunia.jpg"],
+          "inStock": false
+        },
+        {
+          "id": 17,
+          "name": "Chrysanthemum",
+          "price": 189,
+          "description": "Autumn blooming flower.",
+          "image": ["https://m.media-amazon.com/images/I/61d4pA8M9-L._SX679_.jpg", "https://m.media-amazon.com/images/I/61jMyONj2KL._SX679_.jpg", "https://m.media-amazon.com/images/I/61dxXrqAwqL.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 18,
+          "name": "Geranium",
+          "price": 199,
+          "description": "Popular in containers and pots.",
+          "image": ["https://5.imimg.com/data5/ECOM/Default/2023/6/318852848/MJ/GS/RW/133331885/geranium-ivy-imperial-burgundy12-35855.jpg", "https://5.imimg.com/data5/ECOM/Default/2023/6/318852850/NY/YK/UH/133331885/f247d4.jpg", "https://www.syngentaflowers.com/ams/sites/g/files/kgtney2381/files/styles/flo_square_gallery_xl_2x/public/syngenta-flowers-pim/image/upload/v1750167929/70074807/na/70074807-pot.jpg.webp?itok=Po9WmoZn"],
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "category": "Succulents",
+      "plants": [
+        {
+          "id": 19,
+          "name": "Aloe Vera",
+          "price": 150,
+          "description": "Medicinal and hardy.",
+          "image": ["https://rukminim2.flixcart.com/image/832/832/kzvlua80/plant-sapling/w/v/q/no-perennial-no-aloe-vera-popular-medicinal-plant-in-poly-1-original-imagbsz3ferjujhj.jpeg", "https://plants4presents.co.uk/media/catalog/product/cache/98624904c376a1958a1bd16e8bff50fa/a/l/aloeveralarge2023octoberlevelg.jpg", "https://m.media-amazon.com/images/I/514f8t4sNTL.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 20,
+          "name": "Jade Plant",
+          "price": 180,
+          "description": "Lucky plant for prosperity.",
+          "image": ["https://m.media-amazon.com/images/I/51n0fa4c-iL.jpg", "https://m.media-amazon.com/images/I/51n0fa4c-iL.jpg", "https://hips.hearstapps.com/hmg-prod/images/beautiful-crassula-ovata-jade-plant-money-plant-royalty-free-image-1722349156.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 21,
+          "name": "Echeveria",
+          "price": 220,
+          "description": "Rosette-forming succulent.",
+          "image": ["https://i.etsystatic.com/10267921/r/il/d9fb66/5381152342/il_1588xN.5381152342_jgl4.jpg", "https://www.succulentplant.in/wp-content/uploads/2019/10/150S17.jpeg", "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/153653709186793500.jpeg"],
+          "inStock": true
+        },
+        {
+          "id": 22,
+          "name": "Zebra Plant",
+          "price": 160,
+          "description": "Miniature succulent with white stripes.",
+          "image": ["https://m.media-amazon.com/images/I/614qjKKQkPL._SL1000_.jpg", "", ""],
+          "inStock": true
+        },
+        {
+          "id": 23,
+          "name": "String of Pearls",
+          "price": 250,
+          "description": "Trailing succulent for hanging pots.",
+          "image": ["https://example.com/images/snake-plant.jpg", "https://m.media-amazon.com/images/I/618HhjkHUnL._SL1000_.jpg", "https://m.media-amazon.com/images/I/6183OWQ2ceL.jpg"],
+          "inStock": false
+        },
+        {
+          "id": 24,
+          "name": "Sedum",
+          "price": 130,
+          "description": "Ground cover succulent.",
+          "image": ["https://theaffordableorganicstore.com/cdn/shop/files/Untitleddesign42.webp", "https://www.lulasgarden.com/cdn/shop/articles/Care_Sedum_928x450_crop_center.jpg", "https://littleprinceplants.com/wp-content/uploads/2020/10/Sedum-palmeri-March2.jpg.webp"],
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "category": "Herbs",
+      "plants": [
+        {
+          "id": 25,
+          "name": "Basil",
+          "price": 99,
+          "description": "Great for pesto and salads.",
+          "image": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Basil-Basilico-Ocimum_basilicum-albahaca.jpg/2560px-Basil-Basilico-Ocimum_basilicum-albahaca.jpg", "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/266/266425/basil-in-a-bowel-on-a-table.jpg", "https://organicbazar.net/cdn/shop/products/Basil-Large-leaf-Seeds.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 26,
+          "name": "Mint",
+          "price": 89,
+          "description": "Refreshing herb for drinks.",
+          "image": ["https://seedfella.com/cdn/shop/files/61YHNoyGe4L._AC_UF1000_1000_QL80_-Copy-Copy_b790e195-1f99-4c30-b2d8-e8e9eed4d8d2.jpg", "https://seedfella.com/cdn/shop/files/500-peppermint-seeds-herb-m444pp-500seeds-fourganic-original-imagkr3d7hztwu5h_9b01907a-033f-4ac3-a5b0-09c8c05eb473.webp", "https://dukaan.b-cdn.net/700x700/webp/upload_file_service/56dd9524-af8f-4194-9f06-828eec12244c/t-pudiinaa-kaa-paudhaa-herbal-medicinal-plant.png"],
+          "inStock": true
+        },
+        {
+          "id": 27,
+          "name": "Coriander",
+          "price": 79,
+          "description": "Aromatic herb for garnishing.",
+          "image": ["https://beejwala.com/cdn/shop/files/Coriander_F1_Hybrid_Seeds.webp", "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/e0f2e690-693d-4539-a203-e5868d04309a-86ece10.jpg", "https://finediningindian.com/wp-content/uploads/2017/05/cilantro-1287301_1920-min.jpg"],
+          "inStock": false
+        },
+        {
+          "id": 28,
+          "name": "Thyme",
+          "price": 149,
+          "description": "Used in stews and soups.",
+          "image": ["https://www.thespruce.com/thmb/g-kH5hWIDhDAICOMsUARRUFGat0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-grow-thyme-1402630-hero-d44ccea3e3604c1db97d23761b25de52.jpg", "https://urbantilth.org/wp-content/uploads/2021/10/thyme-1-scaled.jpeg", "https://nurserynisarga.in/wp-content/uploads/2022/03/thyme-herb.webp"],
+          "inStock": true
+        },
+        {
+          "id": 29,
+          "name": "Oregano",
+          "price": 139,
+          "description": "Pizza herb with bold aroma.",
+          "image": ["https://www.bhg.com/thmb/SFIicTy3R9Yj3EchiMu7iMNrfb4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BHG-102116352-CcU979pS4IN8kexqa0z0at-d3a98adfa6524e14882b4646d0169025.jpg", "https://www.kitchengardenplantcentre.co.uk/storage/img/products/oregano.webp", "https://organicbazar.net/cdn/shop/products/Untitled-design-2022-06-05T133315.189.jpg"],
+          "inStock": true
+        },
+        {
+          "id": 30,
+          "name": "Lemongrass",
+          "price": 119,
+          "description": "Perfect for teas and soups.",
+          "image": ["https://www.thespruce.com/thmb/terkj0FX5jwnITmBGYeY9liPlv0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-4871735521-05f50c5058b64d45b7d2ba8b9084dbb4.jpg", "https://mainaamgarden.com/cdn/shop/files/MotivationalInstagramPost_1080x1080px_32.png", "https://m.media-amazon.com/images/I/716ZkSsNJWL.jpg"],
+          "inStock": true
+        }
+      ]
+    }
+  ]
+
+  
