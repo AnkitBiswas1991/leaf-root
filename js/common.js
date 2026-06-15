@@ -2,19 +2,19 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/12.0.0/firebas
 import { getFirestore, collection, getDocs, addDoc } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js";
 import { plantData } from "./plant.js";
   const firebaseConfig = {
-    apiKey: "AIzaSyB2XZUYDffCEcBzsLdL2e4CV6Qz2l_zH8k",
-    authDomain: "leaf-root-e9d10.firebaseapp.com",
-    databaseURL: "https://leaf-root-e9d10-default-rtdb.firebaseio.com",
-    projectId: "leaf-root-e9d10",
-    storageBucket: "leaf-root-e9d10.firebasestorage.app",
-    messagingSenderId: "721257593410",
-    appId: "1:721257593410:web:e00f360c17fa72ed484bdb",
-    measurementId: "G-H9GM9T46FH"
+    apiKey: "AIzaSyAXj6DsHOEzpx903oBjEeeFCvmHiD7ongk",
+    authDomain: "leaf-root-6b43b.firebaseapp.com",
+    projectId: "leaf-root-6b43b",
+    storageBucket: "leaf-root-6b43b.firebasestorage.app",
+    messagingSenderId: "378640352621",
+    appId: "1:378640352621:web:973d8199755a118e23c664",
+    measurementId: "G-C0RY56D713"
   };
 
+  const app = initializeApp(firebaseConfig);
+  const db = getFirestore(app);
   const getProd = function(){
-        const app = initializeApp(firebaseConfig);
-        const db = getFirestore(app);
+        
         // console.log(db);
 
         const plantArr = async function(){

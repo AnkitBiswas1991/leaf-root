@@ -157,6 +157,7 @@ const productDetails = function(){
 
                 cartBtn.addEventListener("click", async function(){
                     await addToCart(urlId);
+                    
                 });
 
                 buynowBtn.addEventListener("click", async function(){

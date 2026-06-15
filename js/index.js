@@ -225,7 +225,7 @@ const index = function(){
     if(counterSec){
         const counterFn = function(entries){
             const [entry] = entries;
-            console.log(entry);
+            // console.log(entry);
             if(entry.isIntersecting){
                 document.querySelectorAll(".counter-wrapper").forEach(countWrap => {
                     const counter = countWrap.querySelector(".counter-num");
