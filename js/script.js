@@ -1,4 +1,4 @@
-import productListing from "./productlisting.js";
+import productListing from "./productListing.js";
 import productDetails from "./productDetails.js";
 import cartItem from "./cartItem.js";
 import cart from "./cart.js";

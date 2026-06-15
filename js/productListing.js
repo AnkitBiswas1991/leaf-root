@@ -1,7 +1,7 @@
 
 import getProd from "./common.js";
 import removeSession from "./removeSession.js";
-import {loader, removeloader} from "loader.js";
+import {loader, removeloader} from "./loader.js";
 
 const productListing = function(){
     const productList = document.querySelector('#product-listing .container');
